@@ -203,8 +203,8 @@ They override defaults; where one clashes with something above, this section win
 
 ### Git & branches
 
-- **Work only on the default branch** — `main` here. Use another branch only when explicitly
-  asked. (The user says "master"; this repo's default is `main`, and that is the branch meant.)
+- **Work only on the default branch** — `master`, as in every Po repo. Use another branch only when explicitly
+  asked.
 - **A git sync commits everything first.** Never sync, pull or push with uncommitted changes
   sitting in the tree — commit them as part of the sync.
 

@@ -5,7 +5,7 @@ override defaults. Project detail lives in `CLAUDE.md` and `DOCS/`.
 
 ## Git
 
-- **Work only on the default branch.** The user calls it "master"; in this repo it is `main`.
+- **Work only on the default branch.** It is `master`, as in every Po repo.
   Use another branch only when explicitly asked to.
 - **A git sync commits everything first.** Never pull, push or sync with uncommitted changes.
 
