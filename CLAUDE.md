@@ -1,5 +1,7 @@
 # CLAUDE.md — PoRumble
 
+@AGENTS.md
+
 Top-down 2D boxing battle royale, after the style of Activision's Boxing (Atari 2600, 1980).
 Sixteen fighters - one of each contestant - last one standing, with ML-Agents-trained opponents.
 
